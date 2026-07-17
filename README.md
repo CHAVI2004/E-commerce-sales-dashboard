@@ -29,6 +29,9 @@ This project is an interactive Power BI dashboard built to analyze e-commerce sa
 - Maharashtra has the highest sales.
 - Printers generate the highest profit among sub-categories.
 
+## 📷 Dashboard Preview
+
+![Dashboard 1](Screenshot%20(16).png)
 
 
 
